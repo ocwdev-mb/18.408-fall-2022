@@ -1,0 +1,50 @@
+{
+  "term": "Fall",
+  "year": "2022",
+  "level": [
+    "Graduate"
+  ],
+  "topics": [
+    [
+      "Engineering",
+      "Computer Science",
+      "Algorithms and Data Structures"
+    ],
+    [
+      "Mathematics",
+      "Algebra and Number Theory"
+    ],
+    [
+      "Mathematics",
+      "Discrete Mathematics"
+    ]
+  ],
+  "legacy_uid": "",
+  "instructors": {
+    "content": [
+      "251baca5-923c-4d04-83db-d151ac02f501"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "1b4ce846-df21-4727-857b-e75b6b8f0b77",
+    "website": "topics-in-theoretical-computer-science-probabilistically-checkable-proofs"
+  },
+  "course_title": "Topics in Theoretical Computer Science: Probabilistically Checkable Proofs",
+  "course_description": "In this course, we will present the theory of Probabilistically Checkable Proofs (PCPs), and prove some fundamental consequences of it as well as more recent advances. More specifically, the first half of the course will be devoted to the (algebraic) proof of the basic PCP Theorem and basic relation to approximation problems. We will then move on to more advanced topics, such as hardness amplification, the long-code framework, the Unique-Games Conjecture and its implications, and the 2-to-2 Games Theorem.",
+  "department_numbers": [
+    "18"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "18.408",
+  "course_image_thumbnail": {
+    "content": "ef8722f3-baf6-4cf5-b738-c3fdd98ebd04",
+    "website": "topics-in-theoretical-computer-science-probabilistically-checkable-proofs"
+  },
+  "learning_resource_types": [
+    "Lecture Notes",
+    "Problem Sets"
+  ],
+  "site_uid": "08b81d7a-126f-4758-ab6c-89b7cb975ce0",
+  "site_short_id": "18.408-fall-2022"
+}
